@@ -2,7 +2,7 @@
     "name": "bobanum/arrestdb",
     "description": "RESTful PHP API for SQLite, MySQL and PostgreSQL Databases",
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.4"
     },
     "minimum-stability": "stable"
 }
